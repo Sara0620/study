@@ -1,7 +1,8 @@
 # study
 
-''' first
+## 10.17
+- first
 
-'' second
+- second
 
-' third
+- third
